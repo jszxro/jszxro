@@ -11,6 +11,14 @@
   - Main : Python, Machine Learning, Data Analysis
   - Sub : Java, Web Dev(Spring Boot, etc)
  
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jszxro&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/jszxro?pet-id=727775280545695062"
+    width="600"
+    height="120"
+  />
+</a>
+ 
 ## GitHub Stat and Languages
 <!-- username은 본인걸로 -->
 <p align='center'>
