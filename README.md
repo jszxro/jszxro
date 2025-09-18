@@ -66,4 +66,7 @@
 
 ## Project List
 - [Web] [부산시 상권 추천 프로젝트](https://github.com/offensivesoup/Sangchu_Final_PJT)
+- [PyQt] [전자도서관 시뮬레이션 프로젝트](https://github.com/jszxro/PK_miniproject_3)
+- [Web] [부산시 안전 밤길 프로젝트](https://github.com/sumin020415/project_2)
+- [Web] [감정 기반 음악 추천 프로젝트](https://github.com/jszxro/PK_project_4)
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
