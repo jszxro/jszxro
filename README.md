@@ -66,4 +66,6 @@
 
 ## Project List
 
+- [Web] [개발성향 기반 프로젝트 추천 서비스](https://github.com/jszxro/Dit)
+
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
